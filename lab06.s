@@ -2,6 +2,8 @@
 .data
 data: .word 1
 
+
+
 .text
     la   x10, data
     li   x11, 0
